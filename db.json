@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "rfehy",
+      "email": "ty@gmail.com",
+      "address": "gfjhtfg",
+      "mobile": "4647",
+      "services": "dryhdrt"
+    },
+    {
+      "id": 3,
+      "name": "rfehy",
+      "email": "ty@gmail.com",
+      "address": "gfjhtfg",
+      "mobile": "4647",
+      "services": "dryhdrt"
+    },
+    {
+      "id": 4,
+      "name": "rfehy",
+      "email": "ty@gmail.com",
+      "address": "gfjhtfg",
+      "mobile": "4647",
+      "services": "dryhdrt"
+    },
+    {
+      "id": 5,
+      "name": "rfehy",
+      "email": "ty@gmail.com",
+      "address": "gfjhtfg",
+      "mobile": "4647",
+      "services": "dryhdrt"
+    },
+    {
+      "id": 6,
+      "name": "tfgd",
+      "email": "",
+      "address": "fhmkfg",
+      "mobile": "5477",
+      "services": "tjhr"
+    },
+    {
+      "id": 7,
+      "name": "fdh",
+      "email": "fregh@gmail.com",
+      "address": "gfjf",
+      "mobile": "5458",
+      "services": "dfjhrt"
+    },
+    {
+      "id": 8,
+      "name": "tiffany",
+      "email": "tiffany@gmail.com",
+      "address": "dfhdt",
+      "mobile": "54745",
+      "services": "dfhrtf"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
